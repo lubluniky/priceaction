@@ -1,0 +1,18 @@
+# Julia
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# CondaPkg environment
+.CondaPkg/
+
+# Generated files
+chart.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
